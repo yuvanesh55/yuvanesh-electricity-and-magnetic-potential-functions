@@ -174,4 +174,15 @@ Used in tools like HFSS, COMSOL, CST, ANSYS:
 * Important in PCB design and shielding
 
 ---
+# REFERNCES:
+ “Introduction to Electrodynamics” by David J. Griffiths — standard undergraduate textbook covering potentials in Ch.3/Ch.10. 
+Wikipedia
 
+“Classical Electrodynamics” by John David Jackson — more advanced, graduate-level reference on potentials, gauge, radiation. 
+Wikipedia
+
+“Magnetic Vector Potential” — Wikipedia article gives a good overview of the vector potential concept, its definitions, and gauge freedom. 
+Wikipedia
+
+“Magnetic Vector Potential” section on LibreTexts — covers definition and wave equation of vector potential. 
+Physics LibreTexts
